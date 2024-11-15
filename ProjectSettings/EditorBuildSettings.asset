@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MyScene.unity
+    guid: 2d8768b923a3b0c4789a56af0d75360e
+  - enabled: 1
+    path: Assets/TossGame/Scenes/TossUp.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/LudoGame/Assets/Scenes/Game.unity
+    guid: 133c4403a13877841bd5673919bab8da
+  - enabled: 1
+    path: Assets/CallBreak/Assets/CallBreak/Scenes/CallBreak.unity
+    guid: 811ab345dfe374542a9ca9def9ecc20c
+  - enabled: 1
+    path: Assets/SnakeGame/Scenes/SnakeLadder.unity
+    guid: 3805cc7fd3c2dbc4b8dffbd28bf1b110
+  - enabled: 1
+    path: Assets/LudoGame/Assets/Scenes/Ludo.unity
+    guid: 32c58211ab011b9419d4ab67d99c9860
+  m_configObjects: {}
